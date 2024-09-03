@@ -26,7 +26,7 @@ Below is a list of courses currently covered in this repository. Each course lin
 - [English for Academic Studies](https://github.com/LinnaeusUniversity/1EN114) :x: 1EN114
 - [Technical Information and Communication](https://github.com/LinnaeusUniversity/1DV510) :heavy_check_mark: 1DV510
 - [Programming in C#](https://github.com/LinnaeusUniversity/DA20E) :x: DA20E
-- [Current Topics within Computer Science](https://github.com/LinnaeusUniversity/2DV505) :x: 2DV505
+- [Current Topics within Computer Science](https://github.com/LinnaeusUniversity/2DV505) :heavy_check_mark: 2DV505
 - [Introduction to Applied Internet of Things](https://github.com/LinnaeusUniversity/1DT305_Pico_W_DHT11_WeatherStation) :heavy_check_mark: 1DT305
 - [Introduction to App Development with Flutter](https://github.com/LinnaeusUniversity/1DV535-Flutter) :heavy_check_mark: 1DV535
 - [Computer Security](https://github.com/LinnaeusUniversity/1DV700) :heavy_check_mark: 1DV700

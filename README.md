@@ -1,6 +1,6 @@
 # Courses-Overview
 
-Welcome 👋 to the **Courses-Overview** repository! This student-led repository serves as a hub for assignments and materials from Linnaeus University's Faculty of Computer Science (2018-2021). ***Note***🚨:warning:: **This is not an official Linnaeus University resource**.
+Welcome 👋 to the **Courses-Overview** repository! This student-led repository serves as a hub for assignments and materials from Linnaeus University's Faculty of Computer Science (2018-2021). ***Note***🚨:warning: **This is not an official Linnaeus University resource**.
 
 ## Courses Included
 

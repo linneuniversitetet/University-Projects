@@ -1,6 +1,6 @@
 # Courses-Overview
 
-Welcome 👋 to the **Courses-Overview** repository! This student-led repository serves as a hub for assignments and materials from Linnaeus University's Faculty of Computer Science (2018-2021). 🚨 Note: **This is not an official Linnaeus University resource**. The content is shared under the [MIT License](LICENSE).
+Welcome 👋 to the **Courses-Overview** repository! This student-led repository serves as a hub for assignments and materials from Linnaeus University's Faculty of Computer Science (2018-2021). ***Note***🚨:warning:: **This is not an official Linnaeus University resource**.
 
 ## Courses Included
 
@@ -25,14 +25,14 @@ Below is a list of courses currently covered in this repository. Each course lin
 - [Operating Systems](https://github.com/LinnaeusUniversity/1DV512) :heavy_check_mark: 1DV512
 - [English for Academic Studies](https://github.com/LinnaeusUniversity/1EN114) :x: 1EN114
 - [Technical Information and Communication](https://github.com/LinnaeusUniversity/1DV510) :heavy_check_mark: 1DV510
-<!-- - [Language and Logic](https://github.com/LinnaeusUniversity/1DV517) :x: 1DV517 -->
-<!-- - [Software Architectures](https://github.com/LinnaeusUniversity/2DV604) :x: 2DV604 -->
 - [Programming in C#](https://github.com/LinnaeusUniversity/DA20E) :x: DA20E
 - [Current Topics within Computer Science](https://github.com/LinnaeusUniversity/2DV505) :x: 2DV505
 - [Introduction to Applied Internet of Things](https://github.com/LinnaeusUniversity/1DT305_Pico_W_DHT11_WeatherStation) :heavy_check_mark: 1DT305
 - [Introduction to App Development with Flutter](https://github.com/LinnaeusUniversity/1DV535-Flutter) :heavy_check_mark: 1DV535
 - [Computer Security](https://github.com/LinnaeusUniversity/1DV700) :heavy_check_mark: 1DV700
 - [Computer Networks](https://github.com/LinnaeusUniversity/1DV701) :heavy_check_mark: 1DV701
+<!-- - [Language and Logic](https://github.com/LinnaeusUniversity/1DV517) :x: 1DV517 -->
+<!-- - [Software Architectures](https://github.com/LinnaeusUniversity/2DV604) :x: 2DV604 -->
 
 ---
 

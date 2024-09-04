@@ -6,33 +6,60 @@ Welcome 👋 to the **Courses-Overview** repository! This student-led repository
 
 Below is a list of courses currently covered in this repository. Each course links to a collection of assignments and projects:
 
-- [Degree Project at Bachelor Level](https://www.diva-portal.org/smash/record.jsf?dswid=3786&pid=diva2%3A1599824&c=1&searchType=SIMPLE&language=en&query=rashed+qazizada&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) :heavy_check_mark: 2DV50E
-- [Algorithms and Advanced Data Structures](https://github.com/LinnaeusUniversity/1DV516) :heavy_check_mark: 1DV516
-- [Programming and Data Structures](https://github.com/LinnaeusUniversity/1DV507) :heavy_check_mark: 1DV507
-- [Problem Solving and Programming](https://github.com/LinnaeusUniversity/1DV506) :heavy_check_mark: 1DV506
-- [Object Oriented Analysis and Design using UML](https://github.com/LinnaeusUniversity/1DV607) :heavy_check_mark: 1DV607
-- [Discrete Mathematics](https://github.com/LinnaeusUniversity/1MA462) :x: 1MA462
-- [Basic Mathematics for Computer Scientists](https://github.com/LinnaeusUniversity/1MA441) :x: 1MA441
-- [Server-based Web Programming](https://github.com/LinnaeusUniversity/1DV523) :heavy_check_mark: 1DV523
-- [Introduction to Web Programming](https://github.com/LinnaeusUniversity/1DV525) :heavy_check_mark: 1DV525
-- [Project Course in Software Engineering](https://github.com/LinnaeusUniversity/2DV609) :heavy_check_mark: 2DV609
-- [Project Course in Computer Science](https://github.com/LinnaeusUniversity/1DV508) :x: 1DV508
-- [Database Theory](https://github.com/LinnaeusUniversity/2DV513) :heavy_check_mark: 2DV513
-- [Software Design](https://github.com/LinnaeusUniversity/2DV608) :heavy_check_mark: 2DV608
-- [Software Testing](https://github.com/LinnaeusUniversity/2DV610) :heavy_check_mark: 2DV610
-- [Software Technology](https://github.com/LinnaeusUniversity/1DV600) :heavy_check_mark: 1DV600
-- [Computer Technology 1](https://github.com/LinnaeusUniversity/1DT301) :heavy_check_mark: 1DT301
-- [Operating Systems](https://github.com/LinnaeusUniversity/1DV512) :heavy_check_mark: 1DV512
-- [English for Academic Studies](https://github.com/LinnaeusUniversity/1EN114) :x: 1EN114
-- [Technical Information and Communication](https://github.com/LinnaeusUniversity/1DV510) :heavy_check_mark: 1DV510
-- [Programming in C#](https://github.com/LinnaeusUniversity/DA20E) :x: DA20E
-- [Current Topics within Computer Science](https://github.com/LinnaeusUniversity/2DV505) :heavy_check_mark: 2DV505
-- [Introduction to Applied Internet of Things](https://github.com/LinnaeusUniversity/1DT305_Pico_W_DHT11_WeatherStation) :heavy_check_mark: 1DT305
-- [Introduction to App Development with Flutter](https://github.com/LinnaeusUniversity/1DV535-Flutter) :heavy_check_mark: 1DV535
-- [Computer Security](https://github.com/LinnaeusUniversity/1DV700) :heavy_check_mark: 1DV700
-- [Computer Networks](https://github.com/LinnaeusUniversity/1DV701) :heavy_check_mark: 1DV701
+* [2DV50E](https://www.diva-portal.org/smash/record.jsf?dswid=3786&pid=diva2%3A1599824&c=1&searchType=SIMPLE&language=en&query=rashed+qazizada&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) :heavy_check_mark: Degree Project at Bachelor Level
+
+
 <!-- - [Language and Logic](https://github.com/LinnaeusUniversity/1DV517) :x: 1DV517 -->
 <!-- - [Software Architectures](https://github.com/LinnaeusUniversity/2DV604) :x: 2DV604 -->
+* [2DV50E](https://www.diva-portal.org/smash/record.jsf?dswid=3786&pid=diva2%3A1599824&c=1&searchType=SIMPLE&language=en&query=rashed+qazizada&af=%5B%5D&aq=%5B%5D&aq2=%5B%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) :heavy_check_mark: Degree Project at Bachelor Level
+
+* [1DV516](https://github.com/LinnaeusUniversity/1DV516) :heavy_check_mark: Algorithms and Advanced Data Structures
+
+* [1DV507](https://github.com/LinnaeusUniversity/1DV507) :heavy_check_mark: Programming and Data Structures
+
+* [1DV506](https://github.com/LinnaeusUniversity/1DV506) :heavy_check_mark: Problem Solving and Programming
+
+* [1DV607](https://github.com/LinnaeusUniversity/1DV607) :heavy_check_mark: Object Oriented Analysis and Design using UML
+
+* [1MA462](https://github.com/LinnaeusUniversity/1MA462) :x: Discrete Mathematics
+
+* [1MA441](https://github.com/LinnaeusUniversity/1MA441) :x: Basic Mathematics for Computer Scientists
+
+* [1DV523](https://github.com/LinnaeusUniversity/1DV523) :heavy_check_mark: Server-based Web Programming
+
+* [1DV525](https://github.com/LinnaeusUniversity/1DV525) :heavy_check_mark: Introduction to Web Programming
+
+* [2DV609](https://github.com/LinnaeusUniversity/2DV609) :heavy_check_mark: Project Course in Software Engineering
+
+* [1DV508](https://github.com/LinnaeusUniversity/1DV508) :x: Project Course in Computer Science
+
+* [2DV513](https://github.com/LinnaeusUniversity/2DV513) :heavy_check_mark: Database Theory
+
+* [2DV608](https://github.com/LinnaeusUniversity/2DV608) :heavy_check_mark: Software Design
+
+* [2DV610](https://github.com/LinnaeusUniversity/2DV610) :heavy_check_mark: Software Testing
+
+* [1DV600](https://github.com/LinnaeusUniversity/1DV600) :heavy_check_mark: Software Technology
+
+* [1DT301](https://github.com/LinnaeusUniversity/1DT301) :heavy_check_mark: Computer Technology 1
+
+* [1DV512](https://github.com/LinnaeusUniversity/1DV512) :heavy_check_mark: Operating Systems
+
+* [1EN114](https://github.com/LinnaeusUniversity/1EN114) :x: English for Academic Studies
+
+* [1DV510](https://github.com/LinnaeusUniversity/1DV510) :heavy_check_mark: Technical Information and Communication
+
+* [DA20E](https://github.com/LinnaeusUniversity/DA20E) :x: Programming in C# Malmö University
+
+* [2DV505](https://github.com/LinnaeusUniversity/2DV505) :heavy_check_mark: Current Topics within Computer Science
+
+* [1DT305](https://github.com/LinnaeusUniversity/1DT305_Pico_W_DHT11_WeatherStation) :heavy_check_mark: Introduction to Applied Internet of Things
+
+* [1DV535](https://github.com/LinnaeusUniversity/1DV535-Flutter) :heavy_check_mark: Introduction to App Development with Flutter
+
+* [1DV700](https://github.com/LinnaeusUniversity/1DV700) :heavy_check_mark: Computer Security
+
+* [1DV701](https://github.com/LinnaeusUniversity/1DV701) :heavy_check_mark: Computer Networks
 
 ---
 

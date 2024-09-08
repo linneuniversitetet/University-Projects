@@ -6,7 +6,7 @@ Welcome 👋 to the **Courses-Overview** repository! This student-led repository
 
 Below is a list of courses currently covered in this repository. Each course links to a collection of assignments and projects:
 
-* [2DV50E](https://www.diva-portal.org/smash/record.jsf?dswid=3786&pid=diva2%3A1599824&c=1&searchType=SIMPLE&language=en&query=rashed+qazizada&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) :heavy_check_mark: Degree Project at Bachelor Level
+<!-- * [2DV50E](https://www.diva-portal.org/smash/record.jsf?dswid=3786&pid=diva2%3A1599824&c=1&searchType=SIMPLE&language=en&query=rashed+qazizada&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) :heavy_check_mark: Degree Project at Bachelor Level -->
 
 
 <!-- - [Language and Logic](https://github.com/LinnaeusUniversity/1DV517) :x: 1DV517 -->

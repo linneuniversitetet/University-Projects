@@ -1,10 +1,10 @@
-# Linnaeus-University-CS-BSc
+# Linnaeus-University-Bachelor-CS
 
-Welcome 👋 to the Linnaeus-University-Bachelor-CS repository! This hub contains assignments, projects, and study materials from my Bachelor's Program in Computer Science (2018–2021).
+Welcome 👋 to the Linnaeus-University-Bachelor-CS repository! This is a collection of assignments, projects, and study materials from my Bachelor's Program in Computer Science at Linnaeus University (2018–2021).
 
 ## Included Courses
 
-Below is a list of the courses featured in this repository. Each course folder contains a curated collection of assignments, projects, and additional resources:
+Below is a list of the courses featured in this repository. Each course folder contains a curated collection of assignments, projects, and additional resources that I worked on throughout the program.
 
 
 <!-- * [2DV50E](https://www.diva-portal.org/smash/record.jsf?dswid=3786&pid=diva2%3A1599824&c=1&searchType=SIMPLE&language=en&query=rashed+qazizada&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all) :heavy_check_mark: Degree Project at Bachelor Level -->

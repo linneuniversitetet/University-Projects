@@ -1,6 +1,6 @@
 # Linnaeus-University-CS-BSc
 
-Welcome 👋 to the CS-BSc repository! This hub contains assignments, projects, and study materials from my Bachelor's Program in Computer Science (2018–2021).
+Welcome 👋 to the Linnaeus-University-Bachelor-CS repository! This hub contains assignments, projects, and study materials from my Bachelor's Program in Computer Science (2018–2021).
 
 ## Included Courses
 

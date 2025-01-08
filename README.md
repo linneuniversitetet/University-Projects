@@ -22,9 +22,9 @@ Below is a list of the courses featured in this repository. Each course folder c
 
 * [1DV607](https://github.com/rqkohistani/1DV607) :heavy_check_mark: Object Oriented Analysis and Design using UML
 
-* [1MA462](https://github.com/rqkohistani/1MA462) :x: Discrete Mathematics
+* [1MA462](https://github.com/rqkohistani/mathematics/blob/main/syllabus-1MA462-1.pdf) :heavy_check_mark: Discrete Mathematics
 
-* [1MA441](https://github.com/rqkohistani/1MA441) :x: Basic Mathematics for Computer Scientists
+* [1MA441](https://github.com/rqkohistani/mathematics/blob/main/syllabus-1MA441-4.pdf) :heavy_check_mark: Basic Mathematics for Computer Scientists
 
 * [1DV523](https://github.com/rqkohistani/1DV523) :heavy_check_mark: Server-based Web Programming
 
@@ -32,7 +32,7 @@ Below is a list of the courses featured in this repository. Each course folder c
 
 * [2DV609](https://github.com/rqkohistani/2DV609) :heavy_check_mark: Project Course in Software Engineering
 
-* [1DV508](https://github.com/rqkohistani/1DV508) :x: Project Course in Computer Science
+* [1DV508](https://github.com/rqkohistani/mathematics/blob/main/syllabus-1DV508-4.pdf) :heavy_check_mark: Project Course in Computer Science
 
 * [2DV513](https://github.com/rqkohistani/2DV513) :heavy_check_mark: Database Theory
 
@@ -46,11 +46,11 @@ Below is a list of the courses featured in this repository. Each course folder c
 
 * [1DV512](https://github.com/rqkohistani/1DV512) :heavy_check_mark: Operating Systems
 
-* [1EN114](https://github.com/rqkohistani/1EN114) :x: English for Academic Studies
+* [1EN114](https://github.com/rqkohistani/mathematics/blob/main/syllabus-1EN114-1.pdf) :heavy_check_mark: English for Academic Studies
 
 * [1DV510](https://github.com/rqkohistani/1DV510) :heavy_check_mark: Technical Information and Communication
 
-* [DA20E](https://github.com/rqkohistani/DA20E) :x: Programming in C# Malmö University
+* [DA20E](https://utbildningsinfo.mau.se/kurs/kursplan/da204e/20212) :heavy_check_mark: Programming in C# Malmö University
 
 * [2DV505](https://github.com/rqkohistani/2DV505) :heavy_check_mark: Current Topics within Computer Science
 
